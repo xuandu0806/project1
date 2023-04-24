@@ -1,3 +1,2 @@
 silu
 Hello, it is a greeting from silu
-My name is xuandu
